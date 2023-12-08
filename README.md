@@ -28,9 +28,9 @@ pela manhã, quando será revisado o plano futuro para a AssureNext. Você preci
 ajudá-los a criar seu plano e apresentação.
 As seguintes perguntas devem ser abordadas no plano:
 • Fazendo suposições razoáveis, você precisa criar uma previsão para os
-negócios em 2018 e 2019.
-• Quantas máquinas novas precisariam ser instaladas para atingir 1.7 milhão
-de venda de seguros em 2018.
+negócios em 2016 e 2017.
+• Quantas máquinas novas precisariam ser instaladas para atingir 1.7 bilhão(170crores)
+de venda de seguros em 2017.
 • Supondo que você não possa fabricar mais de 6500 máquinas em um ano e
 que o prêmio médio de uma apólice seja de 55.000 dólares, qual deve ser o
-volume esperado de negócio em 2018 e 2019 (trimestre a trimestre)?
+volume esperado de negócio em 2016 e 2017 (trimestre a trimestre)?
